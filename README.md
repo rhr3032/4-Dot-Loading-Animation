@@ -2,17 +2,16 @@ Hi, I'm Raisul Rafi. A full stacks Web Developer in Bd.
 
 Also expert in,
 
-   	Wordpress
-	 
-	UI/UX Design,
+    Wordpress
 	
-	Graphics Design,
+	UI/UX Design
 	
-	Motion Graphics and VFX,
+	Motion Graphics and VFX
 	
-	Carton Animation,
+	Cartoon & 3D Animation
 	
-	Search Engine Optimization (SEO).
+	Search Engine Optimization (SEO) 
+
 
 
 
@@ -20,24 +19,19 @@ Also expert in,
 Follow Me on Social Media:
 
 	Facebook: rhr.raisulrafi
-
+	
 	Instagram: rhr_raisulrafi
-
+	
 	Twitter: rhr_raisulrafi
-
+	
 	Github: rhr3032
-
+	
 	Mail: rhr3032@yahoo.com
-	
-	
-	
-	
 
-    Visit Website: http://bit.ly/3iPf8iR
+	Visit Website: bit.ly/3iPf8iR
 
 
 
-
-	Copyright 2021 Raisul Hasan Rafi | All Rights Reserved.
+Copyright 2021 Raisul Hasan Rafi | All Rights Reserved.
 
 
